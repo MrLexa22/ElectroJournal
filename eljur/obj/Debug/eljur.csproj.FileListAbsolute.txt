@@ -1,0 +1,14 @@
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\bin\Debug\eljur.exe.config
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\bin\Debug\eljur.exe
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\bin\Debug\eljur.pdb
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\obj\Debug\eljur.csprojAssemblyReference.cache
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\obj\Debug\eljur.csproj.CoreCompileInputs.cache
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\obj\Debug\eljur.exe
+C:\Users\lesha\Desktop\Электронный журнал\eljur\eljur\obj\Debug\eljur.pdb
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\bin\Debug\eljur.exe.config
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\bin\Debug\eljur.exe
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\bin\Debug\eljur.pdb
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\obj\Debug\eljur.csprojAssemblyReference.cache
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\obj\Debug\eljur.csproj.CoreCompileInputs.cache
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\obj\Debug\eljur.exe
+C:\Users\lesha\Desktop\ОАиП\I семестр\Электронный журнал\eljur\eljur\obj\Debug\eljur.pdb
